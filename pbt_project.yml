@@ -1,0 +1,57 @@
+name: saul.crooks
+description: Organic
+version: 0.4.7.190
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: saulcrooks
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:04:36'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:04:36'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:04:36.299522Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '286314710'
+  createdAt: '2024-11-22T23:04:36.299522Z'
+  type: plibMaven
+projectDependencies:
+  '167':
+    projectUID: 167
+    projectName: kina.batz
+    repositoryPath: gitUri=http://gitserver:3000/dev_P6kk8Pei_team_238/dev_P6kk8Pei_project_167.git&subPath=
+    version: kina.batz/0.99.614
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:04:34'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
